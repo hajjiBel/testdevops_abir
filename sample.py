@@ -1,1 +1,1 @@
-hello
+print("main says hello")
